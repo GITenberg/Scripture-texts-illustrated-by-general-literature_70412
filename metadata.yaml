@@ -1,6 +1,9 @@
 _repo: Scripture-texts-illustrated-by-general-literature_70412
 _version: 0.1.0
 alternative_title: Secular annotations on scripture texts
+covers:
+- cover_type: archival
+  image_path: 70412-h/images/cover.jpg
 creator:
   author:
     agent_name: Jacox, Francis
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '55750'
     url: http://www.gutenberg.org/2009/agents/55750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70412#Scripture-texts-illustrated-by-general-literature
 gutenberg_issued: '2023-03-30'
 identifiers:
   gutenberg: '70412'
